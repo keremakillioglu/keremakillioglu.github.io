@@ -4,12 +4,12 @@ title: About
 permalink: /about/
 ---
 
-Some information about you!
+I am a computer science undergraduate studying at Sabanci University. I will graduate in 2020.
 
-### More Information
+### Previous Work Experience
 
-A place to include any other types of information that you'd like to include about yourself.
+I previously interned at Yemeksepeti.com, Google Turkey, PwC Turkey, University of Waterloo and Nanyang Technical University
 
 ### Contact me
 
-[email@domain.com](mailto:email@domain.com)
+[akillioglu@sabanciuniv.edu](mailto:akillioglu@sabanciuniv.edu)
