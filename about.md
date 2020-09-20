@@ -4,12 +4,6 @@ title: About
 permalink: /about/
 ---
 
-I am a computer science undergraduate studying at Sabanci University. I will graduate in 2020.
+Hi there! Thanks for visiting my blog. I’m a software engineer living in Istanbul. Feel free to wander around the website or get in touch.
 
-### Previous Work Experience
-
-I previously interned at Yemeksepeti.com, Google Turkey, PwC Turkey, University of Waterloo and Nanyang Technical University
-
-### Contact me
-
-[akillioglu@sabanciuniv.edu](mailto:akillioglu@sabanciuniv.edu)
+[akillioglu @sabanciuniv. edu](mailto:akillioglu@sabanciuniv.edu)
