@@ -30,7 +30,7 @@ productive system to maximize your in-class performance. I went to almost every 
 but I studied extensively every 2-3 weeks for every each of my classes. Also, I usually left the creative parts of my work to the last day of the deadline. 
 I do the same still. Somehow, I manage my time perfectly and focus intensely on deadline days. It should have something to with adrenaline. (PS. I did not miss any deadlines.)
 
-**4. GPA** 
+**4. GPA**  
 I graduated with 3.51/4.00, which was good enough for me. Having a good GPA should not be the aim but a result. I think studying for a high GPA is boring and 
 misses the fun of learning. I tried to understand everything that was explained in the class, the more I made this effort, the higher my scores were. 
 On the other hand, many interesting programs have GPA thresholds as application criteria. If it is below the indicated threshold, 
