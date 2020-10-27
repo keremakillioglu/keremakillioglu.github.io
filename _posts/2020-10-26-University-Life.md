@@ -10,8 +10,7 @@ A week after my graduation, I took my first steps into my profession. When I loo
 the significance of every effort I put and the influence of every relationship I built. I decided to write down some key points about my journey.
 
 **1. Communication & Relationships**  
-I have always enjoyed interacting with people who are knowledgeable in interesting areas. I learned a lot from them, and I owe many important experiences to people I got to know.
-I have always asked the questions that I was interested in and I have never encountered anyone who ignored me when I asked. And when people ask me, 
+I have always enjoyed interacting with people who are knowledgeable in interesting areas. I learned a lot from them, and I owe many important experiences to people I got to know. I have always asked the questions that I was interested in and I have never encountered anyone who ignored me when I asked. And when people ask me, 
 I try to be as responsive to pay that debt of gratitude back. Whether I'm the one asking the questions or answering, I have so much fun during this idea exchange. 
 After having some conversations, I ended up being a mentor for some people. Some people ended up being my mentors and some people ended up being my friends. 
 Luckily, I'm surrounded by many exciting people who I built genuine relationships with. Having a wide network is one of the greatest wealth that can be acquired.  
@@ -45,16 +44,16 @@ During my time, I interacted with the customers, delivered a presentation to my 
 I learned a lot there and I believe I was quite useful for the company. Also, working in an online food delivery platform ignited my passion for gastronomy 
 and made me super curious about online delivery systems.
 
-**6. Relaxing & Studying**  
-Life is much broader than just work. I find it more obvious after graduation. If you have hobbies, you can do something other than going out and having a drink with a friend. 
-There is nothing wrong with having a drink with friends, but more can be done. Playing saxophone, sailing, and exploring my passion for gastronomy were some of the things that 
-I did. Now I see that having hobbies helped made my life much more colourful. Also, travel abroad if there is a chance. Try to discover new cultures and have 
-interesting experiences.
-
-**7. Post-graduation**  
-The first steps taken after graduation is an extension of the undergrad life. This is something that one should always keep somewhere in mind. 
+**6. Post-graduation**  
+The first steps taken after graduation is an extension of the university life. This is something that one should always keep somewhere in mind. 
 Good news: there is no need to plan anything firmly from day one. If the decision is not obvious, the most important thing to do is keeping options open. 
 One decision would lead to one another and eventually post-graduation path will appear by itself. Better to think ahead but not rush. 
+
+**7. Fun, Hobbies & Travel**  
+Life is much broader than just work. I find it more obvious after graduation. If you have hobbies, you can do something other than going out and having a drink with a friend. 
+There is nothing wrong with having a drink with friends, but more can be done. Playing saxophone, sailing, and discovering my passion for gastronomy were some of the things that 
+I have started. Now I see that having hobbies helped made my life much more colourful. Also, travel abroad if there is a chance. Try to discover new cultures and have 
+interesting experiences.
 
 I also keep reminding this to myself still: 
 - No matter how busy you are do not forget having fun throughout your journey. :)
