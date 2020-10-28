@@ -52,7 +52,7 @@ One decision would lead to one another and eventually post-graduation path will 
 **7. Fun, Hobbies & Travel**  
 Life is much broader than just work. I find it more obvious after graduation. If you have hobbies, you can do something other than going out and having a drink with a friend. 
 There is nothing wrong with having a drink with friends, but more can be done. Playing saxophone, sailing, and discovering my passion for gastronomy were some of the things that 
-I have started. Now I see that having hobbies helped made my life much more colourful. Also, travel abroad if there is a chance. Try to discover new cultures and have 
+I have started. Now I see that having hobbies made my life much more colourful. Also, travel abroad if there is a chance. Try to discover new cultures and have 
 interesting experiences.
 
 I also keep reminding this to myself still: 
