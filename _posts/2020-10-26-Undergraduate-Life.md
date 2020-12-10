@@ -27,7 +27,7 @@ The time you spend outside of class affects your in-class performance a lot. For
 Some people relax by playing games, some dance, and some clean-up the house... It is important to find events that comfort you most. Also, try to find the most 
 productive system to maximize your in-class performance. I went to almost every class. I was not the guy who studied every day or every week, 
 but I studied extensively every 2-3 weeks for every each of my classes. Also, I usually left the creative parts of my work to the last day of the deadline. 
-I do the same still. Somehow, I manage my time perfectly and focus intensely on deadline days. It should have something to with adrenaline. (PS. I did not miss any deadlines.)
+I do the same still. Somehow, I manage my time perfectly and focus intensely on deadline days. It should have something to do with adrenaline. (PS. I did not miss any deadlines.)
 
 **4. GPA**  
 I graduated with 3.51/4.00, which was good enough for me. Having a good GPA should not be the aim but a result. I think studying for a high GPA is boring and 
