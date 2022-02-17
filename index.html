@@ -1,18 +1,18 @@
 ---
 layout: default
+title: About Me
+order: 1
 ---
 
-<div class="posts">
-  {% for post in site.posts %}
-    <article class="post">
+<div class="home">
 
-      <h1><a href="{{ site.baseurl }}{{ post.url }}">{{ post.title }}</a></h1>
+<div class="entry">
+ <p>
+  Hi there! Thanks for visiting my blog. I am Master's student in Computer Science at the University of Waterloo. 
+  I am working under the supervision [Prof. M. Tamer Özsu](https://cs.uwaterloo.ca/~tozsu/) as a member of the [Data Systems Group](https://uwaterloo.ca/data-systems-group/).
 
-      <div class="entry">
-        {{ post.excerpt }}
-      </div>
+ </p> 
 
-      <a href="{{ site.baseurl }}{{ post.url }}" class="read-more">Read More</a>
-    </article>
-  {% endfor %}
+</div>
+
 </div>
