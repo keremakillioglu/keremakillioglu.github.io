@@ -1,4 +1,6 @@
 ---
+layout: default
+title: Posts
 ---
 
 <div class="posts">
