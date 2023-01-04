@@ -1,0 +1,16 @@
+I"…<div class="projects">
+  
+    <article class="project">
+
+      <h1><a href="/projects/Cardinality-Estimation">Cardinality Estimation in Graph DBs</a></h1>
+
+      <div class="entry">
+        <p>My masterâ€™s thesis is on cardinality estimation in Streaming Graph Data Management Systems (SGDMS). I have been developing a novel cardinality estimation technique on top of the <a href="https://dsg-uwaterloo.github.io/s-graffito/">S-Graffito</a> project, where my research group built a SGDMS that addresses the processing of OLTP and OLAP queries. I am enthusiastic about this project since I am contributing to the development of the first query optimizer that is native to streaming graph databases, and we are taking the first steps in building complete graph native systems.</p>
+
+      </div>
+
+      <a href="/projects/Cardinality-Estimation" class="read-more">Read More</a>
+    </article>
+  
+</div>
+:ET
