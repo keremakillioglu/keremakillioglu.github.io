@@ -6,12 +6,17 @@
 name: Kerem Akıllıoğlu 
 
 # Short bio or description (displayed in the header)
-description: Software Engineer
+description: Master's Student
 
 # URL of your avatar or profile pic (you could use your GitHub profile pic)
 avatar: https://avatars1.githubusercontent.com/u/30245190?s=400&amp;v=4.png
 
 permalink: /:categories/:title/
+
+collections:
+  projects:
+    output: true
+    permalink: /:collection/:title
 
 #
 # Flags below are optional
